@@ -9,5 +9,5 @@ jobs:
       - name: status
         run: echo "!bye-bye"
       - name: workspace
-        run: echo ${{ github.workspace }}
+        run: $ echo ${{ github.workspace }}
         
